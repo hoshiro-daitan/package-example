@@ -1,5 +1,5 @@
 module.exports = {
   printMessage: (msg) => {
-    console.log(`Msg-2.0.1 : ${msg}`);
+    console.log(`Msg-2.0.2 : ${msg}`);
   },
 };
